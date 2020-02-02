@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PFAS</title>
+  
+  <subtitle>PFuture Ans</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-02-01T14:22:04.998Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Level -1</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这里是 PFAS 的官方站点。</title>
+    <link href="http://yoursite.com/2020/02/01/introduce/"/>
+    <id>http://yoursite.com/2020/02/01/introduce/</id>
+    <published>2020-02-01T13:21:28.629Z</published>
+    <updated>2020-02-01T14:22:04.998Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;欢迎来到 &lt;a href=&quot;https://地址待定/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;PFAS Offical&lt;/a&gt;！ &lt;/p&gt;
+&lt;p&gt;关于QQ群:
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
